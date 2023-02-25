@@ -24,7 +24,7 @@ This model can also be used by people who are learning sign language to check if
 
 ![Image](https://user-images.githubusercontent.com/103205660/221358218-04febd58-a5dc-4433-b6d6-097539ccb7a3.jpg)
 
-**Contributing guidelines:**Contributions are to my project! My model is currently limited to recognizing letters in sign language, but I would love to expand it to recognize more types of sign language. If you're interested in contributing, here are some ways you can help:
+**Contributing guidelines:** Contributions are to my project! My model is currently limited to recognizing letters in sign language, but I would love to expand it to recognize more types of sign language. If you're interested in contributing, here are some ways you can help:
 
 Add new sign language images to our dataset: I'm looking for more images of sign language gestures that we can add to our dataset to improve the accuracy of our model. You can contribute by submitting images of sign language gestures for us to include in our dataset.
 
