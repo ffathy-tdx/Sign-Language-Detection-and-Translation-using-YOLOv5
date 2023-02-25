@@ -38,4 +38,4 @@ I appreciate your interest in my project and look forward to your contributions!
 
 **License: This project is licensed under the MIT License.**
 
-We hope this helps! Let us know if you have any further questions.
+hope this helps! Let me know if you have any further questions.
